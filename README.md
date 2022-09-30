@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cbates255
 - 👀 I’m a never-ending student of tech
-- 🌱 I’m currently learning AWS, Git, Terraform, Docker and Python
+- 🌱 I’m currently experienced with AWS, Git, Terraform, Kubernetes, Docker and Python
 - 📫 You can reach me at cbates255@gmail.com
 
 <!---
